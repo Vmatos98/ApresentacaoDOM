@@ -1,0 +1,39 @@
+main{
+    background-color: #212121;
+    height: 100vh;
+}
+.back{
+    position: absolute;
+    bottom: 50%;
+    font-size: 50px;
+    color:aliceblue;
+    z-index:1;
+}
+.forward{
+    position: absolute;
+    bottom: 50%;
+    right: 0;
+    font-size: 50px;
+    color:aliceblue;
+    z-index:1;
+}
+.pages{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    height: 100vh; 
+}
+.pages img{
+    height: 80%; 
+}
+.exemplo{
+    position: relative;
+    text-align: center;
+    top:30%;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+}
+.remove{
+    display: none;
+}
