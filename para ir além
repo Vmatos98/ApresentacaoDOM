@@ -19,3 +19,19 @@ https://stackoverflow.com/questions/38280291/getelementsbyclassname-style-is-und
 https://www.w3schools.com/jsref/dom_obj_all.asp
 
 https://developer.mozilla.org/pt-BR/docs/Web/API/Element
+
+https://www.w3schools.com/jsref/prop_node_innertext.asp
+
+https://developer.mozilla.org/pt-BR/docs/Web/API/HTMLElement/innerText
+
+https://www.w3schools.com/jsref/prop_html_innerhtml.asp
+
+https://www.w3schools.com/jsref/prop_node_textcontent.asp
+
+https://www.w3schools.com/jsref/tryit.asp?filename=tryjsref_node_textcontent_innerhtml_innertext
+
+https://pt.stackoverflow.com/questions/304324/qual-a-diferen%C3%A7a-entre-htmlcollection-nodelist-e-object
+
+https://developer.mozilla.org/pt-BR/docs/Web/API/Node/appendChild
+
+https://attacomsian.com/blog/javascript-convert-nodelist-to-array
