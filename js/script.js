@@ -101,9 +101,9 @@ function exGetEllement(){
     <p id="idElement1" class="id">Este elemento tem uma Id = "idElement1"</p><br/>
     <p id="idElement2" class="id">Este elemento tem uma Id = "idElement2"</p><br/>
     <p id="idElement3" class="id">Este elemento tem uma Id = "idElement3"</p><br/>
-    <p class = "classEllement1 class">Este elemento tem uma classe = "classEllement1"</p><br/>
-    <p class = "classEllement2 class">Este elemento tem uma classe = "classEllement2"</p><br/>
-    <p class = "classEllement3 class">Este elemento tem uma classe = "classEllement3"</p><br/>
+    <p class = "classElement1 class">Este elemento tem uma classe = "classElement1"</p><br/>
+    <p class = "classElement2 class">Este elemento tem uma classe = "classElement2"</p><br/>
+    <p class = "classElement3 class">Este elemento tem uma classe = "classElement3"</p><br/>
     <input class="id-clas" type="text" placeholder="Entre a class ou a ID">
     <button onclick="exGetEllementIdOrClasse('id')">pesquisar id</button>
     <button onclick="exGetEllementIdOrClasse('class')" >pesquisar classe</button>
@@ -212,6 +212,7 @@ function text(){
     <h1>Esse é um titulo h1</h1>
     <p>Acompanhado por um paragrafo <span> com um span</span> e quebra de linha</p><br/>
     <p>Com     mais      um     paragrafo       bem espaçado</p><br/>
+    <p style="display: none">E esse deve se manter oculto</p><br/>
     </div>
     <button onclick="getInnerHTML()">innerHTML</button>
     <button onclick="getInnerText()">innerText</button>
